@@ -240,7 +240,7 @@ Because every good README needs memes:
 
 **When the notification finally arrives:**
 
-![Success](https://i.imgflip.com/4/2h7h93.jpg)
+![Success](https://imgflip.com/i/ac46br)
 
 **When IGNOU's website is down:**
 
