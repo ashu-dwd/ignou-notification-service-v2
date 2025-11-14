@@ -1,0 +1,4 @@
+/node_modules
+/logs/cron.log
+/v2
+/.env
